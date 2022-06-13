@@ -15,7 +15,7 @@ Return to the canvas and click the slicer symbol. By default, it shows up as a l
 
 -- table's total row
 
-select dimension field and using table's total row ($309004.06)
+select dimension field and using table's total row (Answer:$309004.06)
 
 Total Row in the Table Visual
 You can disable the total row entirely using the Format tab of the visual, and then under the Total
