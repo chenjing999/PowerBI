@@ -47,7 +47,23 @@ Return Power Query Editor page, and do that again if we change our mind.
 --Hover on the bar, then got Answer: 5.52
 
 ## Transforming and formatting columns
+get Power Query Editor by selecting 'transformed data'
+Data Type-- different options
+Replace Values -- entry ?
+change Data type
+click 'Close & Apply'  ---don't forget
 
+In the 'Data' View
+Column tools --- Format
+Column tools --- Summarization
+card  change to decimal
+
+#### deal with geographic data
+Column tools --- Data categroy
+
+Table tools---
+Visualization pane -- Location  City
+Visualization pane -- Size Quantity  
 
 
 
