@@ -10,12 +10,15 @@
 
 ### Change the 'list' to 'dropdown' in power bi (slicer icon,  then choose a field)
 
+Using the arrow on the top right in the slicer. (two options: list, dropdown)
+
 Place the slicer icon from the Visualizations tab on the canvas. Choose the column from which you want to filter data once it’s on the canvas. 
 
 Return to the canvas and click the slicer symbol. By default, it shows up as a list, but you can change it with one easy step. A downward arrow can be found in the upper right-hand corner. Simply clicking on it brings up two options: List and Dropdown. Select Dropdown if you don’t want the data filter to appear as a list. 
 
 <img width="211" alt="slicer_2_choices" src="https://user-images.githubusercontent.com/53594146/173489112-0d510af4-c309-4505-84ab-ed323940b315.png">
 
+Answer: 2014 (click bar chart)-Taj Shand (chose from slicer dropdown box)-Profit (card show 295.34K profit) $295.34K
 
 ### report
 -- table
