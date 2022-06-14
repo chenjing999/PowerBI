@@ -69,7 +69,7 @@ Go back to 'Report' View --  card  change to decimal 99.53K  Credit Limited (Ans
 
 (Original is one bar)?? then click card, chose Credit Limited field to get answer.
 
-Another Excercise: 2_4_format_currency.pbix  -------  format currency Summarization (Answer: $865.82)
+Another Excercise: 2_4_format_currency.pbix  -------  format currency Summarization  add card for total including tax (Answer: $865.82)
 
 #### deal with geographic data
 Column tools --- Data categroy
