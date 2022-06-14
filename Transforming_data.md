@@ -83,28 +83,36 @@ Visualization pane -- Size Quantity
 Exercise:
 
 Step1:
+
 --Load the dimension table DimCity.csv from the Datasets/WWI folder on the Desktop.
 
 --Go to the Model view and make sure a relationship is found between DimCity and FactSale.
 
 Step2:
+
 In the Data view, change the Data category of DimCity's State Province to "State or Province"
 
 Step3:
+
 Make sure the default summarization for Profit from FactSale is "Average".
 
 Step4:
+
 --In the Report view, navigate to the second tab.
 
 --Create a Map visualazation using State Province as Location and Profit as Bubble size.
 
 Step5:
+
 Add a Slicer for the Buying Group field from the DimCustomer table. Arrange the report to your liking and add a title.
 
 Step6:
+
 Using the map and the slicer, which state generate the highest average profit for the "Wingtip Toys"? Answer: Washington
 
 In Buying Group slicer  click Wingtip Toys, hover the bubbles in the map to see and find the value (Washington/Oregon/California/Alaska).
+
+<img width="321" alt="map" src="https://user-images.githubusercontent.com/53594146/173573669-bc7614ef-84bc-4638-b96c-05a53ace840f.png">
 
 
 
