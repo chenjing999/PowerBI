@@ -52,7 +52,7 @@ get Power Query Editor by selecting 'transformed data'
 Data Type-- different options
 
 
-Replace Values -- entry ?
+Replace Values -- entry ?   blank    replace ? with blank
 change Data type
 
 click 'Close & Apply'  ---don't forget
@@ -61,9 +61,13 @@ click 'Close & Apply'  ---don't forget
 ##### In the 'Data' View
 Column tools --- Format
 
+0000 ---- 2   2 decimals
+
 Column tools --- Summarization
 
-card  change to decimal
+Go back to 'Report' View --  card  change to decimal 99.53K  Credit Limited (Answer: $99.53K)
+
+(Original is one bar)?? then click card, chose Credit Limited field to get answer.
 
 #### deal with geographic data
 Column tools --- Data categroy
