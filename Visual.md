@@ -1,4 +1,4 @@
-### Making changes
+### Making changes (Change and format visuals)
 
 --Edit the slicer:
 
