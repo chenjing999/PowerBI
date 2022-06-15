@@ -13,3 +13,9 @@ Items-- Text size
 ---Change Matrix to Table 
 
 Still in Visulizations pane click icon 'Table ' which is next to 'Matrix '
+
+
+Total forecasted sales amount (Answer: $18126759053.91B)
+Make sure you did not choose the category, otherwise, you will get the wrong answer: (e.g. $4585888066.580B)
+
+
