@@ -166,6 +166,7 @@ Let's take out filter skills up a notch! You want to find out what the five perf
 5. What is the name of the 5th best performing Contoso store?
 
 Answer: Contoso North America Reseller(the top bar in the visual is 5th best, since it is ascending order, the bottom one is the 1st best )
+
 <img width="366" alt="filter02" src="https://user-images.githubusercontent.com/53594146/174069253-3e55a80e-0282-4c38-83b6-c1f06cb76d97.png">
 
 
@@ -188,6 +189,7 @@ Steps 4
 How to change the title of the bar chart in power bi
 
 In the Visualizations pane, select the paint roller icon (if not, it should be middle icon 'Format your visual') to reveal the format options. Select Title to expand that section. To change the title, enter Store count by month opened in the Title text field.
+
 <img width="259" alt="filter01" src="https://user-images.githubusercontent.com/53594146/174069004-ee4c234e-3aeb-462d-ae17-f7bc9c53c49d.png">
 
 
@@ -195,7 +197,9 @@ In the Visualizations pane, select the paint roller icon (if not, it should be m
 Bar chart-- Click three dot--choose 'Sort ascending'
 
 Then you could see the Top 5 Locations (Some screenshots)
+
 <img width="222" alt="filter03" src="https://user-images.githubusercontent.com/53594146/174069163-3c6457dc-9d59-4387-8a5f-6645728c3804.png">
+
 <img width="475" alt="filter04" src="https://user-images.githubusercontent.com/53594146/174069193-2f061d38-48b6-4123-a530-c3bb8c7d79bf.png">
 
 
