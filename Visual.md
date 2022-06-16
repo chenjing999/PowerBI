@@ -58,4 +58,8 @@ How to Change Power BI Dashboard Theme?
 
 From the View ribbon, select the Themes dropdown button and select Customize current theme or other themes.
 
+change Height to make slicer dropdown's height as the same as the multi-columns in the card.
+
+right or left instead of resize a visual--using X-position
+
 
