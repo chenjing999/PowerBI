@@ -48,7 +48,7 @@ Now, what we want to do is mofidy a property of the data so it wil always sort t
 
 choose MonthName, then in 'Column tools' (the contextual menu at the top of the screen)click an icon that says 'Sort by column' , and make sure to sort  MonthName column by 'MonthNumber'. Do the same thing fro ShortMonth. Let's go back to 'Report' view.
 
-Resize the tree map, Format--General--Height (change 285 to 250, you will see the orange part)
+Resize the tree map, Format--General--Height (change 285 to 250, you will see the orange part, which is overlapped/covered before)
 
 Change slicer, format--Slicer header On--go back to slicer in down arrow-- choose 'Dropdown'.
 
