@@ -63,3 +63,9 @@ change Height to make slicer dropdown's height as the same as the multi-columns 
 right or left instead of resize a visual--using X-position
 
 
+### Drilling down and filtering
+A hierarchy enables the ability to show different levels of data without having to create new visuals.
+
+By adding a hierarchy to your visualizations, you can easily navigate up and down a hierarchy. For example, you can display data for each year, zoom in on a quarter, and end with a month.
+
+
