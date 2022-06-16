@@ -35,3 +35,20 @@ search Values in Format visual
 
 Hover in the matrix, row:Budget, col: Cell phones. (Answer:1208041332.59)
 
+
+### Sorting and more formatting
+slicer--in the top right corner-- clicking three dots ...-- Sort descending/Sort ascending
+do the same thing in the bar chart--right corner-- clicking three dots ...---Sort by--MonthName/Amount
+
+Sort by--MonthName, April will be the first month. It seems like the months are sorted in alphabetical order, this is not what we want. To sort the data in the correct way, from January to December, we need to modify the data.
+
+To do this, we'll go to the 'Data' view. Here we'll select the DimDate table.
+
+Now, what we want to do is mofidy a property of the data so it wil always sort the way we want.
+
+choose MonthName, then in 'Column tools' (the contextual menu at the top of the screen)click an icon that says 'Sort by column' , and make sure to sort  MonthName column by 'MonthNumber'. Do the same thing fro ShortMonth. Let's go back to 'Report' view.
+
+Resize the tree map, Format--General--Height (change 285 to 250, you will see the orange part)
+
+Change slicer, format--Slicer header On--go back to slicer in down arrow-- choose 'Dropdown'.
+
