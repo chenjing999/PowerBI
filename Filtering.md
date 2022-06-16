@@ -135,3 +135,15 @@ There is 'Filters on this visual' above 'Filters on this page' and 'Filters on a
 Drag ScenarioName from Fields pane to 'Filters on this visual' in the Filters pane (Add data fields here)
 
 Do the same for Forecast, and Budget respectively. Answer: Forecast Amount 18.13bn  (Actual: 18.34bn. Budget: 17.17bn)
+
+### Turning off interactions
+interaction icon -- O/ --the circle with the line through it.
+
+Select the 'Budget Product Solid' visual.
+
+Go into the interaction editing mode in the Format tab at the top of the screen.
+
+Turn off the interactions with each of the three cards.
+
+Click the TV bar in the 'Budget Product Solid' visual. Amount in Budget card. (Answer: Budget: 17.17bn)
+
