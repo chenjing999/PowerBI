@@ -29,6 +29,7 @@ Bar chart --click 'double arrow'  or click the 'double arrow with a line' to get
 1. Navigate to the DimDate table in the Data View.
 
 2. Create a hierarchy that starts with 'Year', goes on to the QuarterFull, then the MonthName, and ends with the DateKey.
+
 If the drag functionality isn't working, you can right-click DimDate's Year in the Fields pane and select 'Create hierarchy'. From there, you can right-click the necessary fields and select 'Add to hierarchy'.
 
 3. Rename the hierarchy to Date Hierarchy.
@@ -38,6 +39,7 @@ If the drag functionality isn't working, you can right-click DimDate's Year in t
 5. Use the drill controls in the top right corner of the visual to explore the different levels. Click the single down arrow to enable drill mode.
 
 6. Which quarter across all years had the highest amount (format example: Y2020 Q1)  (Answer: Y2017 Q4)
+
 Click the single down arrow--click one bar to see the details in a year (click 2017 and you will see four quarter value Q1 Q2 Q3 Q4). If you want to return, using the single up arrow, do the same thing with 2018 and 2019, and compare to find the quarter that had the highest amount.
 
 
