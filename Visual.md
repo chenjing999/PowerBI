@@ -65,30 +65,4 @@ change Height to make slicer dropdown's height as the same as the multi-columns 
 right or left instead of resize a visual--using X-position
 
 
-### Drilling down and filtering
-A hierarchy enables the ability to show different levels of data without having to create new visuals.
-
-By adding a hierarchy to your visualizations, you can easily navigate up and down a hierarchy. For example, you can display data for each year, zoom in on a quarter, and end with a month.
-
-
-### The underlying data and hierarchies
-Bar chart -- click three dots--show as a table
-
-Export data
-
-how to create the hierarchies
-
-1. Go to 'Data' view--Drag Qrt on top of Year, when we do that,  a hierarchy is automatically created. (you will see 'Year hierarchy ')
-
-we are going to rename the hierarchy by double clicking on the hierarchy name and changing it to 'Date Rollup'.
-
-Then we'll add the MonthName, we could drag it over like before, or, right click on the column name and then add it to the 'Date Rollup' hierarchy. (right click 'MonthName', choose 'Add to hierarchy', choose 'Date Rollup')
-
-You could switch the order of them in 'Date Rollup' by dragging them in the correct order. You can also switch them back.
-
-2. Go back to the 'Report' view, Visulazation pane--Axis--'Date Rollup' (drag/ choose)
-
-Bar chart --click down arrow to turn on Drill down -- After doing that, down arrow turns to black, meaning it is enabled. if you don't turn on drill down, selecting a visual element won't drill down. instead, it will cross-filter the other charts on the report page. As we covered eariler, the double arrow will get us down another levels for all years, and the double arrow with a line combines information from the current and next level.
-
-Bar chart --click 'double arrow'  or click the 'double arrow with a line' to get a feel for how drilling works.
 
