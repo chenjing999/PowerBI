@@ -145,5 +145,5 @@ Go into the interaction editing mode in the Format tab at the top of the screen.
 
 Turn off the interactions with each of the three cards.
 
-Click the TV bar in the 'Budget Product Solid' visual. Amount in Budget card. (Answer: Budget: 17.17bn)
+Click the 'TV and Videos' bar in the 'Budget Product Solid' visual. Amount in Budget card. (Answer: Budget: 17.17bn)
 
