@@ -147,3 +147,56 @@ Turn off the interactions with each of the three cards.
 
 Click the 'TV and Videos' bar in the 'Budget Product Solid' visual. Amount in Budget card. (Answer: Budget: 17.17bn)
 
+### Applying advanced filtering
+Let's take out filter skills up a notch! You want to find out what the five performing stores are in term of sales amount. To do this you'll create a new bar chart that displey only those stores. After that, you'll use some of your formatting skills from earlier in the chapter to improve your visual.
+
+#### Exercise:
+1. Remove the 'Budget Monthly Amount' chart to make room.
+
+2. Add a clustered bar to the report, with the EntityName on the X-Axis and the Amount as Y-Axis.
+
+3. --Go to the Filters pane and add a Top N filter on EntituName.
+
+--Show only the top five stores.
+
+4. --Change the title of the visual to Top 5 Stores by Sales
+
+--Sort the columns in ascending order
+
+5. What is the name of the 5th best performing Contoso store?
+
+Answer: Contoso North America Reseller(the top bar in the visual is 5th best, since it is ascending order, the bottom one is the 1st best )
+<img width="366" alt="filter02" src="https://user-images.githubusercontent.com/53594146/174069253-3e55a80e-0282-4c38-83b6-c1f06cb76d97.png">
+
+
+
+Steps 1-3
+
+Click the bar chart --
+
+Filters pane--Filters on this visual, it is 'Amount'
+
+Filters pane--Click on EntityName, and under here where it says Basic Filtering (under the 'Filter type'), select Top N. So that is going to give us the top N numbers of entities, meaning locations, and we want 5. 
+
+Filters pane--Show items: Top and we have to input 5. 
+
+Filters pane--By value, we need to use Amount, drag Amount from Fields to 'By value', then click 'Apply filter
+
+
+Steps 4
+
+How to change the title of the bar chart in power bi
+
+In the Visualizations pane, select the paint roller icon (if not, it should be middle icon 'Format your visual') to reveal the format options. Select Title to expand that section. To change the title, enter Store count by month opened in the Title text field.
+<img width="259" alt="filter01" src="https://user-images.githubusercontent.com/53594146/174069004-ee4c234e-3aeb-462d-ae17-f7bc9c53c49d.png">
+
+
+
+Bar chart-- Click three dot--choose 'Sort ascending'
+
+Then you could see the Top 5 Locations (Some screenshots)
+<img width="222" alt="filter03" src="https://user-images.githubusercontent.com/53594146/174069163-3c6457dc-9d59-4387-8a5f-6645728c3804.png">
+<img width="475" alt="filter04" src="https://user-images.githubusercontent.com/53594146/174069193-2f061d38-48b6-4123-a530-c3bb8c7d79bf.png">
+
+
+
